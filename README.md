@@ -10,6 +10,7 @@
 
 ## Sub modules
 
+* [Серверное приложение и API](https://github.com/fpmi-hci-2024/project13b-backend-super-awesome-team-name):  Реализация API и бизнес-логики приложения, разработанная с помощью *[указать технологии]*.
 * [Веб-приложение](https://github.com/fpmi-hci-2024/project13b-web-super-awesome-team-name):  фронтенд часть приложения, реализованная с помощью *[указать технологии]*.
 * [Мобильное приложение](https://github.com/fpmi-hci-2024/project13b-mobile-super-awesome-team-name):  мобильная версия приложения, разработанная для платформы *[указать платформу]*.
 
