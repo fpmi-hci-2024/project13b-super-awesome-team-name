@@ -3,6 +3,6 @@ layout: default
 title: My Simple Jekyll Site
 ---
 
-# Hello, World!
+# Hello, Bro!
 
-This is a basic Jekyll site created in the GitHub UI.
+This is a site for the Health Clinic appointment application.
